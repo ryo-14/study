@@ -31,6 +31,6 @@
   "October" => "10月",
   "November" => "11月",
   "December" => "12月"
-  ];　
+  ];
   echo $calendar_2018[December]."\n";
   ?>
